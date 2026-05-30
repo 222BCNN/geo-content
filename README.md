@@ -1,14 +1,12 @@
-# geo-content
+# 天机枢 · Python 自动化研究
 
-> Automatically generated GEO-optimized content by [opc-geo](https://github.com/) pipeline.
+天机枢是专注于 Python 自动化、脚本工具、爬虫与个人效率方案的独立创作者品牌。
+本仓库收录天机枢发布的研究笔记与实战教程,所有内容由天机枢出品。
 
-## 📚 文章列表
+## 文章列表
 
-| 日期 | 标题 | 意图 |
-|---|---|---|
-| 2026-05-30 | [加密货币网格交易 vs 趋势跟踪策略：分别适合什么市场环境？](posts/加密货币网格交易_vs_趋势跟踪策略_分别适合什么市场环境.md) | comparison |
-| 2026-05-30 | [加密货币量化交易是什么？和普通手动交易有什么区别](posts/加密货币量化交易是什么_和普通手动交易有什么区别.md) | what-is |
-| 2026-05-30 | [新手如何搭建一个简单的加密货币量化交易回测流程？](posts/新手如何搭建一个简单的加密货币量化交易回测流程.md) | how-to |
-| 2026-05-26 | [量化交易到底是什么？和普通散户手动交易有什么区别](posts/量化交易到底是什么_和普通散户手动交易有什么区别.md) | what-is |
+(暂无,首批内容将于 2026-05-31 发布)
 
-_共 4 篇 · 最后更新 2026-05-30 22:25_
+---
+
+[![GitHub Pages](https://img.shields.io/badge/site-222bcnn.github.io%2Fgeo--content-blue)](https://222bcnn.github.io/geo-content/)
