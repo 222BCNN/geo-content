@@ -1,12 +1,11 @@
-# 天机枢 · Python 自动化研究
+# geo-content
 
-天机枢是专注于 Python 自动化、脚本工具、爬虫与个人效率方案的独立创作者品牌。
-本仓库收录天机枢发布的研究笔记与实战教程,所有内容由天机枢出品。
+> Automatically generated GEO-optimized content by [opc-geo](https://github.com/) pipeline.
 
-## 文章列表
+## 📚 文章列表
 
-(暂无,首批内容将于 2026-05-31 发布)
+| 日期 | 标题 | 意图 |
+|---|---|---|
+| 2026-05-31 | [Python 自动化办公新手先学哪些库？openpyxl、pandas 和 pyautogui 区别与选择指南](posts/Python_自动化办公新手先学哪些库_openpyxl_pandas_和_py.md) | comparison |
 
----
-
-[![GitHub Pages](https://img.shields.io/badge/site-222bcnn.github.io%2Fgeo--content-blue)](https://222bcnn.github.io/geo-content/)
+_共 1 篇 · 最后更新 2026-05-31 00:17_
